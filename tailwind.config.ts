@@ -8,9 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
-     font-family: {
-      primary
-     }
+      fontfamily: {
+        primary: ["Oswald", "sans-serif"],
+      },
     },
   },
   plugins: [],
